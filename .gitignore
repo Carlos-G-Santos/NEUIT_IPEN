@@ -1,3 +1,5 @@
+# imagens de saida do programa
+saida_tiff/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
@@ -63,6 +65,8 @@ celerybeat-schedule
 .venv
 venv/
 ENV/
+.venv_img
+.venv_img/
 
 # Spyder project settings
 .spyderproject
